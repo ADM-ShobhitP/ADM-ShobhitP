@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hello World 👋, I'm Shobhit Prakash  
-<br>  
-**A passionate full stack developer as well as an AI/ML fresher from India**  
+**A passionate full stack developer as well as an AI/ML fresher from India**
 
 </div>
 
