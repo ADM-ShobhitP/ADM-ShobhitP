@@ -1,7 +1,13 @@
-- 👀 I’m currently working on Python
-- 🌱 I’m currently learning Java, Bootstrap
-- 💞️ I read novels in my past time.
-- 📫 How to reach me shobhitprakash8@gmail.com
+# Hello World 👋, I'm Shobhit Prakash  
+A passionate full stack developer from India  
+
+## 💫 About Me:  
+🔭 I’m currently working on Geolocation_Based Data Collection With Comprehensive Validation.  
+👯 I’m looking to collaborate on Open Source Projects built on Python and Stack.  
+🌱 I’m currently learning AI & ML projects.  
+💬 Ask me about Python.  
+⚡ Fun fact: I like reading different types of literature.  
+📫 How to reach me: shobhitprakash8@gmail.com  
 
 <!---
 ADM-ShobhitP/ADM-ShobhitP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
