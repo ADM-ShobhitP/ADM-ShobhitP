@@ -1,6 +1,8 @@
-# Hello World 👋, I'm Shobhit Prakash  
-A passionate full stack developer from India  
+<div align="center">
 
+# Hello World 👋, I'm Shobhit Prakash  
+**A passionate full stack developer as well as an AI/ML fresher from India**  
+</div>
 ## 💫 About Me:  
 🔭 I’m currently working on Geolocation_Based Data Collection With Comprehensive Validation.  
 👯 I’m looking to collaborate on Open Source Projects built on Python and Stack.  
