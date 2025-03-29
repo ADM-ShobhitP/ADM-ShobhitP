@@ -12,7 +12,6 @@ You can click the Preview link to take a look at your changes.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shobhitprakash3812)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobhit-prakash-62372a273)
 
-
 ## 💻 Tech Stack:
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -28,5 +27,3 @@ You can click the Preview link to take a look at your changes.
 ![MindsDB](https://img.shields.io/badge/MindsDB-FFCC00?style=flat-square&logo=mindsdb&logoColor=black)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-FF5733?style=flat-square&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
